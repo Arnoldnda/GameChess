@@ -22,7 +22,7 @@ Il montre comment représenter des pièces d'échecs et valider leurs mouvements
 - Affiche si le déplacement est valide ou non
 
 ## 🛠️ Comment exécuter le projet
-1️⃣ Cloner le dépôt : git clone https://github.com/Arnoldnda/GameChess.git
+1️⃣ Cloner le dépôt : `git clone https://github.com/Arnoldnda/GameChess.git`
 
 2️⃣ Ouvrir dans IntelliJ (ou un autre IDE)
 
